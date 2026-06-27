@@ -270,3 +270,4 @@ Scrum Masters and Agile Coaches facilitate the team's agile processes, remove im
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Reference specific role responsibilities and interactions when defining workflows and decision points in process documentation.
+- See [Role Interactions and Dependencies](./octoacme-role-interactions-and-dependencies.md) for detailed cross-functional workflows and handoff points.
