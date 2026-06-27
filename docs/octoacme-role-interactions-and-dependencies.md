@@ -84,7 +84,7 @@ Clarify how roles interact, communicate, and depend on each other throughout the
 ### Developer ↔ QA/Testing Lead
 - **Frequency**: Daily during sprint execution
 - **Format**: PR reviews, defect reports, test automation planning
-- **Key Topics**: Test coverage, acceptances criteria clarity, defect severity and priority
+- **Key Topics**: Test coverage, acceptance criteria clarity, defect severity and priority
 - **Escalation**: Project Manager if quality blockers impact release date
 
 ### Developer ↔ Technical Lead
@@ -128,7 +128,7 @@ Clarify how roles interact, communicate, and depend on each other throughout the
 ## Cross-Functional Dependency Matrix
 
 | Role | Depends On | Provides To | Key Risks |
-|------|-----------|-------------|-----------|
+|------|-----------|-------------|----------|
 | **Developer** | QA/Testing, Technical Lead, DevOps | Code, estimates | Unclear requirements, blocked by infrastructure or security issues |
 | **QA/Testing Lead** | Product Manager, Developer, DevOps | Test coverage data, quality gates | Incomplete acceptance criteria, late test automation setup |
 | **Technical Lead** | Product Manager, Security Engineer | Architectural guidance, feasibility | Technical debt, security risks not caught early |
@@ -151,4 +151,3 @@ Clarify how roles interact, communicate, and depend on each other throughout the
 | Scope creep or priority conflict | Product Manager → Stakeholder/Sponsor (with Project Manager) | Product Manager | Within 2 business days |
 | Team capacity or velocity issue | Scrum Master → Project Manager → Leadership | Scrum Master | Weekly review |
 | Cross-team dependency blocked | Project Manager → Sponsor or cross-team lead | Project Manager | Immediate |
-
